@@ -2,7 +2,7 @@
   "$schema": "node_modules/@ztools-center/ztools-api-types/resource/ztools.schema.json",
   "name": "snap-translate",
   "title": "截图翻译",
-  "description": "截图 OCR / 翻译。贴图悬浮贴可标注、原位覆盖译文；OCR 与 OCR 翻译走主窗对照。优先宿主默认提供商，失败再回退微信 / Paddle 与微软 / 谷歌等。",
+  "description": "截图 OCR 翻译",
   "author": "",
   "version": "0.8.0",
   "main": "index.html",
